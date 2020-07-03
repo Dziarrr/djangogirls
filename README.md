@@ -1,6 +1,6 @@
 #podreczne notatki
 wersja zainstalowanego pythona
-> python --version
+> C:\Users\p.dziarski>python --version
 
 # readme
 ##Django tutorial for Windows 10 
